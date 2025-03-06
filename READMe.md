@@ -109,7 +109,7 @@ No featured projects at the moment. Stay tuned for more updates!
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=potatotrollvn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 ⭐️ From [PotatoTrollVn](https://github.com/PotatoTrollVn)
