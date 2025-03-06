@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm [Potato] 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Developer;Multi-language+Enthusiast;Always+Learning" alt="Typing SVG" />
@@ -12,17 +12,6 @@
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-</div>
-
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/yourusername/project-name">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-name&theme=dark" alt="Project Card" />
-  </a>
-  <a href="https://github.com/yourusername/another-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=another-project&theme=dark" alt="Project Card" />
-  </a>
 </div>
 
 ## 📊 GitHub Stats
@@ -113,19 +102,9 @@ public class HelloWorld {
 - Cloud infrastructure (AWS/Azure)
 - Optimization techniques
 
-## 📫 Connect With Me
+---
 
-<div align="center">
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+No featured projects at the moment. Stay tuned for more updates!
 
 ---
 
